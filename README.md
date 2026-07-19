@@ -31,14 +31,8 @@ This project followed a strict feature-based commit workflow,  tracking the prog
 To view or edit the project locally you only need:
 * A moderb web browser (eg., Google chrome , firefox)
 * A code editor like vs code
-
-
-
-
-
-
-
-
+## 💙 Thank You!
+Thank you for visiting my porfolio and taking you time to view my photography and design journey!
 ## Project  Setup Instructions
 * **Link to Github**
 hhtps://github.com/Skysparl/Photography-porrtfolio/
