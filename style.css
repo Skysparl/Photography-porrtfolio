@@ -22,6 +22,7 @@ photo-list{
 border: 2px solid white;
 border-radius: 8px;
 transition: transform o.3s ease;
+marginL: 10px;
 }
 .item  img:hover, .sunsets-item img:hover, .hustling-item img:hover{
   transform: scale(1.05);
