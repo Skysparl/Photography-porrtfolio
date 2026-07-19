@@ -3,3 +3,7 @@ Developed a responsive photography portfolio website that features a curated gal
 ## 📸 Project Highlights 
 * **Gallery Sectionss**: Neaatly Categorized image displays featuring them like *sunsets* *Hustling&work* and *Favourites*.
 * ** Semantic Structure**: Built entirely using clean HTML5 structural elements for semantic clarity.
+# Belter Photography && Design
+## Author 
+* **Name**: Belter Mumbua Mbithi
+* **Role**: Front-End Developer
