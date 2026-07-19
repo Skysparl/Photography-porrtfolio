@@ -22,7 +22,7 @@ Developed a responsive photography portfolio website that features a curated gal
 * 'index.html' - Main Landing page Layout
 * 'style.css' - custom styling declarations
 *'/images' - Target directory containing all photography assets
-
+## This Portfolio serves as a visual showcase for photography clients , art andgallery
 
 
 
