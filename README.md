@@ -15,7 +15,9 @@ Developed a responsive photography portfolio website that features a curated gal
 * add a contact form for inquires
 * Implement responsive media queries for mobile views
 * Add hover effects to gallery image
-
+## Future Enhancements
+* add interactive hover effects to the galler images
+* Design a custom contact form page
 
 
 
