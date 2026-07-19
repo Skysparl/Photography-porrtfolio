@@ -25,8 +25,12 @@ Developed a responsive photography portfolio website that features a curated gal
 ## This Portfolio serves as a visual showcase for photography clients , art andgallery
 * vs code - The primary code editor used for writing HTML and CSS
 ## ⚙ Project Setup Instructions
-##📝Prerequisites
-
+##🚀Development Workflow
+This project followed a strict feature-based commit workflow,  tracking the progress across layout structuring, style updates, and documentatiom.
+## Prerequisites
+To view or edit the project locally you only need:
+* A moderb web browser (eg., Google chrome , firefox)
+* A code editor like vs code
 
 
 
