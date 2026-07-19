@@ -11,6 +11,10 @@ Developed a responsive photography portfolio website that features a curated gal
 * HTML5- for page structure and gallerylayout
 * CSS3 - for styling fonts and colors
 * Git&Github - for version control and deyployment
+## Future enhancements
+* add a contact form for inquires
+* Implement responsive media queries for mobile views
+* Add hover effects to gallery image
 
 
 
