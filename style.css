@@ -1,0 +1,46 @@
+body{
+  background-color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: auto;
+  padding: 0%;
+}
+header{
+  background-color:#1a252f;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+ h2 , h3 , h4 , p{
+  color: white;
+  padding: 10px;
+}
+photo-list{
+  list-style: none;
+  padding: 0;
+}
+.item img, .sunsets-item img, .hustling-item img{
+border: 2px solid white;
+border-radius: 8px;
+transition: transform o.3s ease;
+}
+.item  img:hover, .sunsets-item img:hover, .hustling-item img:hover{
+  transform: scale(1.05);
+}
+.gallery-section{
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.photo-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 0;
+}
+.item, .sunsets-item{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
