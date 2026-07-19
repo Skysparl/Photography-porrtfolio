@@ -24,9 +24,7 @@ Developed a responsive photography portfolio website that features a curated gal
 *'/images' - Target directory containing all photography assets
 ## This Portfolio serves as a visual showcase for photography clients , art andgallery
 * vs code - The primary code editor used for writing HTML and CSS
-## Design Objectives
-* clean alignment across image grids.
-*Minimalist color palettes to let the imagery stand out.
+## ⚙ Project Setup Instructions
 
 
 
