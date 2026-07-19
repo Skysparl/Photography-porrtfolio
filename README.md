@@ -18,6 +18,11 @@ Developed a responsive photography portfolio website that features a curated gal
 ## How to view locally
 1. Clone this repository using 'git clone'.
 2. Open the 'index.html' file directly in any web browser to view the gallery 
+## Repository Structure
+* 'index.html' - Main Landing page Layout
+* 'style.css' - custom styling declarations
+*'/images' - Target directory containing all photography assets
+
 
 
 
