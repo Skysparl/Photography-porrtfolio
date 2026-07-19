@@ -23,6 +23,8 @@ Developed a responsive photography portfolio website that features a curated gal
 * 'style.css' - custom styling declarations
 *'/images' - Target directory containing all photography assets
 ## This Portfolio serves as a visual showcase for photography clients , art andgallery
+* vs code - The primary code editor used for writing HTML and CSS
+
 
 
 
