@@ -7,6 +7,20 @@ Developed a responsive photography portfolio website that features a curated gal
 ## 📸 Project Highlights 
 * **Gallery Sectionss**: Neaatly Categorized image displays featuring them like *sunsets* *Hustling&work* and *Favourites*.
 * ** Semantic Structure**: Built entirely using clean HTML5 structural elements for semantic clarity.
+## Technologies used
+* HTML5- for page structure and gallerylayout
+* CSS3 - for styling fonts and colors
+* Git&Github - for version control and deyployment
+
+
+
+
+
+
+
+
+
+
 ## Project  Setup Instructions
 * **Link to Github**
 hhtps://github.com/Skysparl/Photography-porrtfolio/
